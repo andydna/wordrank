@@ -54,5 +54,3 @@ word frequency list
 corpora
 
 taking too long to get it
-
-
